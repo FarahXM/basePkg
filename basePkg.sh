@@ -7,7 +7,7 @@ pacman -Syy --noconfirm xorg-server xorg-xinit xorg-xmessage acpilight xmonad xm
     scrot dunst libnotify \
     sxiv mpv cmus \
     thunar gvfs gvfs-mtp \
-    unclutter git php picom nitrogen lxappearance \
+    unclutter php picom nitrogen lxappearance \
     arc-gtk-theme papirus-icon-theme \
     ttf-dejavu ttf-font-awesome ttf-jetbrains-mono \
     pulseaudio pulseaudio-alsa pulseaudio-bluetooth pulsemixer \
